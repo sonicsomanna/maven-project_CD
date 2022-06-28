@@ -22,4 +22,4 @@ jobs:
   dependsOn: job2
   steps:
   - script: echo Job3
-    displayName: 'Run a one-line script
+    displayName: 'Run a one-line script'
